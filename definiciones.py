@@ -155,3 +155,5 @@ def ejecutar_sistema():
             break
         except Exception as e:
             print("Se produjo un fallo del sistema.")
+
+##aloalo
